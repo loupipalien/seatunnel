@@ -1,0 +1,23 @@
+seatunnel-connectors-v2/connector-milvus/src/main/java/org/apache/seatunnel/connectors/seatunnel/milvus/utils/sink/MilvusSinkConverter.java
+  s_0bf7cbb5297352::t_4209618629f2e3 315-319,323-335
+seatunnel-connectors-v2/connector-milvus/src/test/java/org/apache/seatunnel/connectors/seatunnel/milvus/utils/sink/MilvusSinkConverterTest.java
+  s_0bf7cbb5297352::t_ce8f771242686d 171,174-184,186
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "e56bbb6821490b962ec69c6dc9c2206a66b11a69",
+  "prompts": {},
+  "sessions": {
+    "s_0bf7cbb5297352": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3a80-4450-77b2-9c5e-db3ad5e8df7e",
+        "model": "unknown"
+      },
+      "human_author": "chenlantian.michael <chenlantian.michael@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
