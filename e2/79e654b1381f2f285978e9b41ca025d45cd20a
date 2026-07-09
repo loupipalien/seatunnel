@@ -1,0 +1,23 @@
+docs/en/connectors/sink/Milvus.md
+  s_0bf7cbb5297352::t_fbc2d24ea53929 62
+docs/zh/connectors/sink/Milvus.md
+  s_0bf7cbb5297352::t_efdb8bb92dbcea 62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "e279e654b1381f2f285978e9b41ca025d45cd20a",
+  "prompts": {},
+  "sessions": {
+    "s_0bf7cbb5297352": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3a80-4450-77b2-9c5e-db3ad5e8df7e",
+        "model": "unknown"
+      },
+      "human_author": "chenlantian.michael <chenlantian.michael@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
